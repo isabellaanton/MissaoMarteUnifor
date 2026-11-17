@@ -1,0 +1,31 @@
+================================================================
+             MISSÃO MARTE UNIFOR - VERSÃO 10.0                  
+================================================================
+  Pilote sua nave, salve os passageiros e desvie dos perigos!   
+================================================================
+
+--- MENU PRINCIPAL ---
+1. Iniciar Nova Missão
+2. Visualizar Ranking Top 5
+3. Resetar Histórico de Ranking
+4. Sair do Jogo
+----------------------
+Escolha uma opção: 
+====== RANKING TOP 5 PILOTOS ======
+1. P0 - 300 pts | Dificuldade: Médio | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+2. P1 - 290 pts | Dificuldade: Difícil | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+3. P2 - 280 pts | Dificuldade: Médio | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+4. P3 - 270 pts | Dificuldade: Difícil | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+5. P4 - 260 pts | Dificuldade: Médio | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+6. P5 - 250 pts | Dificuldade: Difícil | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+7. P6 - 240 pts | Dificuldade: Médio | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+===================================
+
+--- MENU PRINCIPAL ---
+1. Iniciar Nova Missão
+2. Visualizar Ranking Top 5
+3. Resetar Histórico de Ranking
+4. Sair do Jogo
+----------------------
+Escolha uma opção: 
+Obrigado por jogar a Missão Marte Unifor!

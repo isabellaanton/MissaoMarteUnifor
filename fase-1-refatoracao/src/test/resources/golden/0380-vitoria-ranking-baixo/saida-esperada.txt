@@ -1,0 +1,569 @@
+================================================================
+             MISSÃO MARTE UNIFOR - VERSÃO 10.0                  
+================================================================
+  Pilote sua nave, salve os passageiros e desvie dos perigos!   
+================================================================
+
+--- MENU PRINCIPAL ---
+1. Iniciar Nova Missão
+2. Visualizar Ranking Top 5
+3. Resetar Histórico de Ranking
+4. Sair do Jogo
+----------------------
+Escolha uma opção: 
+Digite o nome do piloto: Escolha a Dificuldade (facil/medio/dificil): Tamanho do mapa (ex: 5 para mapa de -5 a +5): 
+Iniciando missão na dificuldade Difícil...
+Pressione Enter para decolar!
+
+Mapa da Missão (Pontos: 45) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  @  X  .  .
+  1|  .  .  .  .  P  .  .
+  2|  X  .  .  .  .  #  .
+  3|  .  .  X  T  .  .  P
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+ - Ast. Maria (Astronauta) em (0,3)
+Nave em (0,0) | Pontos: 45 | Vidas: 3 | A bordo: 0/5 | Restantes: 5
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 44) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  @  P  .  .
+  2|  X  .  .  .  .  #  .
+  3|  .  X  .  T  .  .  P
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+ - Ast. Maria (Astronauta) em (0,3)
+Nave em (0,1) | Pontos: 44 | Vidas: 3 | A bordo: 0/5 | Restantes: 5
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 43) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  X  .  .  .  P  .  .
+  2|  .  .  .  @  X  #  .
+  3|  .  .  X  T  .  .  P
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+ - Ast. Maria (Astronauta) em (0,3)
+Nave em (0,2) | Pontos: 43 | Vidas: 3 | A bordo: 0/5 | Restantes: 5
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 42) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  X  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  X  @  X  .  P
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+ - Ast. Maria (Astronauta) em (0,3)
+Nave em (0,3) | Pontos: 42 | Vidas: 3 | A bordo: 0/5 | Restantes: 5
+Comando (w/s/a/d/c/q): Passageiro Ast. Maria embarcado com sucesso! +20 pontos!
+Alerta! Colisão detectada! Vidas restantes: 2
+
+Mapa da Missão (Pontos: 62) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  X  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  X  #  .
+  3|  .  .  .  @  .  .  P
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (0,3) | Pontos: 62 | Vidas: 2 | A bordo: 1/5 | Restantes: 4
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 61) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  X  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  X  @  .  P
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,3) | Pontos: 61 | Vidas: 2 | A bordo: 1/5 | Restantes: 4
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 60) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  X  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  X  #  .
+  3|  .  .  .  X  .  @  P
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (2,3) | Pontos: 60 | Vidas: 2 | A bordo: 1/5 | Restantes: 4
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 59) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  X  .  @
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Dr. Lima (Professor) em (3,3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (3,3) | Pontos: 59 | Vidas: 2 | A bordo: 1/5 | Restantes: 4
+Comando (w/s/a/d/c/q): Passageiro Dr. Lima embarcado com sucesso! +10 pontos!
+
+Mapa da Missão (Pontos: 69) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  .  #  X
+  3|  .  .  .  .  X  .  @
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (3,3) | Pontos: 69 | Vidas: 2 | A bordo: 2/5 | Restantes: 3
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 68) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  .  #  X
+  3|  .  .  .  .  X  @  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (2,3) | Pontos: 68 | Vidas: 2 | A bordo: 2/5 | Restantes: 3
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 67) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  .  #  X
+  3|  .  .  .  X  @  .  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,3) | Pontos: 67 | Vidas: 2 | A bordo: 2/5 | Restantes: 3
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 66) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  X  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  P  .  .
+  2|  .  .  .  .  @  #  .
+  3|  .  .  .  X  .  .  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,2) | Pontos: 66 | Vidas: 2 | A bordo: 2/5 | Restantes: 3
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 65) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  @  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  X  X  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Dr. Silva (Professor) em (1,1)
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,1) | Pontos: 65 | Vidas: 2 | A bordo: 2/5 | Restantes: 3
+Comando (w/s/a/d/c/q): Passageiro Dr. Silva embarcado com sucesso! +10 pontos!
+
+Mapa da Missão (Pontos: 75) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  X  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  @  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  X  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,1) | Pontos: 75 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 74) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  X  #  .  .  .  .
+  0|  .  .  .  L  @  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  .  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,0) | Pontos: 74 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 73) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  @  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  X  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,-1) | Pontos: 73 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 72) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  .  .  .
+ -2|  E  .  .  .  @  .  .
+ -1|  .  X  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  X  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,-2) | Pontos: 72 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 71) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  .  @  .  .
+ -2|  E  X  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  .  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (1,-3) | Pontos: 71 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 70) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  .  @  .  .  .
+ -2|  E  .  X  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  X
+  3|  .  .  .  .  .  X  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (0,-3) | Pontos: 70 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 69) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  E  @  .  .  .  .
+ -2|  E  .  .  X  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  X  .  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (-1,-3) | Pontos: 69 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 68) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  @  .  X  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  X  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Rosa (Engenheiro) em (-2,-3)
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (-2,-3) | Pontos: 68 | Vidas: 2 | A bordo: 3/5 | Restantes: 2
+Comando (w/s/a/d/c/q): Passageiro Eng. Rosa embarcado com sucesso! +15 pontos!
+
+Mapa da Missão (Pontos: 83) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  @  .  X  .  .  .
+ -2|  E  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  X  .  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (-2,-3) | Pontos: 83 | Vidas: 2 | A bordo: 4/5 | Restantes: 1
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 82) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  .  X  .  .  .  .
+ -2|  E  @  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  X  .  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (-2,-2) | Pontos: 82 | Vidas: 2 | A bordo: 4/5 | Restantes: 1
+Comando (w/s/a/d/c/q): 
+Mapa da Missão (Pontos: 81) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  .  .  .  .  .  .
+ -2|  @  .  X  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  X  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+ - Eng. Carlos (Engenheiro) em (-3,-2)
+Nave em (-3,-2) | Pontos: 81 | Vidas: 2 | A bordo: 4/5 | Restantes: 1
+Comando (w/s/a/d/c/q): Passageiro Eng. Carlos embarcado com sucesso! +15 pontos!
+✨ ALERTA: Todos os passageiros resgatados! Retorne para a Plataforma de Pouso 'L' em (0,0) para completar a missão.
+
+Mapa da Missão (Pontos: 96) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  .  X  .  .  .  .
+ -2|  @  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  X  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+Nave em (-3,-2) | Pontos: 96 | Vidas: 2 | A bordo: 5/5 | Restantes: 0
+Comando (w/s/a/d/c/q): ✨ ALERTA: Todos os passageiros resgatados! Retorne para a Plataforma de Pouso 'L' em (0,0) para completar a missão.
+
+Mapa da Missão (Pontos: 95) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  .  X  .  .  .  .
+ -2|  .  .  .  .  .  .  .
+ -1|  @  .  #  .  .  .  .
+  0|  .  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  .  X
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+Nave em (-3,-1) | Pontos: 95 | Vidas: 2 | A bordo: 5/5 | Restantes: 0
+Comando (w/s/a/d/c/q): ✨ ALERTA: Todos os passageiros resgatados! Retorne para a Plataforma de Pouso 'L' em (0,0) para completar a missão.
+
+Mapa da Missão (Pontos: 94) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  X  .  .  .  .  .
+ -2|  .  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  @  .  .  L  .  .  .
+  1|  .  .  .  .  .  .  .
+  2|  .  .  .  .  X  #  .
+  3|  .  .  .  .  .  X  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+Nave em (-3,0) | Pontos: 94 | Vidas: 2 | A bordo: 5/5 | Restantes: 0
+Comando (w/s/a/d/c/q): ✨ ALERTA: Todos os passageiros resgatados! Retorne para a Plataforma de Pouso 'L' em (0,0) para completar a missão.
+
+Mapa da Missão (Pontos: 93) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  .  .  .  .  .  .
+ -2|  .  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  @  .  L  .  .  .
+  1|  .  .  .  .  X  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  X  .  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+Nave em (-2,0) | Pontos: 93 | Vidas: 2 | A bordo: 5/5 | Restantes: 0
+Comando (w/s/a/d/c/q): ✨ ALERTA: Todos os passageiros resgatados! Retorne para a Plataforma de Pouso 'L' em (0,0) para completar a missão.
+
+Mapa da Missão (Pontos: 92) - Piloto: Ana
+     -3 -2 -1  0  1  2  3
+     __ __ __ __ __ __ __
+ -3|  #  .  .  .  .  .  .
+ -2|  .  .  .  .  .  .  .
+ -1|  .  .  #  .  .  .  .
+  0|  .  .  @  L  .  .  .
+  1|  .  .  .  X  .  .  .
+  2|  .  .  .  .  .  #  .
+  3|  .  .  .  .  .  X  .
+Legenda: @=Nave, P=Professor, E=Engenheiro, T=Astronauta, #=Asteroide, X=Inimigo, L=Plataforma de Pouso, .=Vazio
+Comandos: w/s/a/d (mover), c (embarcar), q (sair)
+Passageiros na superfície marciana:
+Nave em (-1,0) | Pontos: 92 | Vidas: 2 | A bordo: 5/5 | Restantes: 0
+Comando (w/s/a/d/c/q): 
+================================================================
+🚀 DECOLAGEM AUTORIZADA! Nave acoplada à plataforma em (0,0).
+Retornando à órbita marciana com todos os passageiros. Missão cumprida!
+================================================================
+Estatísticas da Partida:
+ - Pontuação Final: 91 pontos
+ - Movimentos Efetuados: 24
+ - Tempo de Jogo: 0 segundos
+ - Passageiros Resgatados: 5
+🏆 Novo recorde absoluto do sistema!
+================================================================
+Parabéns! Você entrou para o Top 5 de pilotos!
+
+--- MENU PRINCIPAL ---
+1. Iniciar Nova Missão
+2. Visualizar Ranking Top 5
+3. Resetar Histórico de Ranking
+4. Sair do Jogo
+----------------------
+Escolha uma opção: 
+====== RANKING TOP 5 PILOTOS ======
+1. Ana - 91 pts | Dificuldade: Difícil | Coletados: 5 | Tempo: 0s | 2026-01-01 12:00:07
+2. A - 50 pts | Dificuldade: Fácil | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:01
+3. B - 40 pts | Dificuldade: Fácil | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+4. C - 30 pts | Dificuldade: Fácil | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+5. D - 20 pts | Dificuldade: Fácil | Coletados: 4 | Tempo: 12s | 2025-12-01 10:00:00
+===================================
+
+--- MENU PRINCIPAL ---
+1. Iniciar Nova Missão
+2. Visualizar Ranking Top 5
+3. Resetar Histórico de Ranking
+4. Sair do Jogo
+----------------------
+Escolha uma opção: 
+Obrigado por jogar a Missão Marte Unifor!
