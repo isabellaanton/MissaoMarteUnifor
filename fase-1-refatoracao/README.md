@@ -22,25 +22,26 @@ A organização segue o layout padrão do Gradle (`src/main/java`, `src/test/jav
 `src/test/resources`), para que a migração da issue B2 não precise mover arquivos.
 
 ## Requisitos
-- Java 17
+- Java 17 (o Gradle Wrapper baixa automaticamente um JDK 17 via toolchain, mesmo que a
+  máquina só tenha outra versão instalada)
 
-## Executar o jogo (sem Gradle, enquanto a B2 não entrega)
+## Executar o jogo
 
-Dentro de `fase-1-refatoracao`, no PowerShell:
+Dentro de `fase-1-refatoracao`:
 
 ```powershell
-$files = Get-ChildItem -Recurse src/main/java -Filter *.java | ForEach-Object FullName
-javac -encoding UTF-8 --release 17 -d out/main $files
-java -cp out/main br.unifor.missaomarte.Main
+.\gradlew.bat run
 ```
+
+Linux/Mac: `./gradlew run`.
 
 O arquivo `ranking.json` é criado no diretório de onde o jogo for iniciado (igual à versão
 original). Controles: `w`, `s`, `a`, `d` movem; `c` embarca; `q` aborta.
 
 ## Executar os testes
 
-Os testes são **JUnit 5** e dependem da configuração Gradle das issues **B2** (Gradle
-com Wrapper, Java 17) e **B3** (JUnit 5). O `build.gradle` da equipe precisa de:
+Os testes são **JUnit 5**, configurados em `build.gradle` (issues **B2**/**B3**: Gradle
+com Wrapper e Java 17, JUnit 5):
 
 ```groovy
 dependencies {
@@ -52,7 +53,12 @@ test {
 }
 ```
 
-e então `./gradlew test` (Windows: `gradlew.bat test`).
+```powershell
+.\gradlew.bat test
+```
+
+Linux/Mac: `./gradlew test`. Os 141 testes (unitários + arquitetural + golden master)
+passam limpos.
 
 Pontos que dependem do Gradle padrão:
 - `DependenciasEntreCamadasTest` lê as classes compiladas a partir do local de saída de
